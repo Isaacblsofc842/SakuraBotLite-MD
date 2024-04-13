@@ -1,8 +1,8 @@
 > 🚩🧿Versión Del Bot: 1.0.7
 
-### Sakura : Bot - Lite - MD 🌸
+### Sakura : 𖣘𝙿𝚊𝚗乂𝚋𝚝˚𝙾𝙵𝙲 🌸
 <p align="center">
-<img src="https://telegra.ph/file/9379ac50c5285dc976e2e.png" alt="Bot-WhatsApp" width="900"/>
+<img src="https://telegra.ph/file/4aef5bb52095d54a285a6.png" alt="Bot-WhatsApp" width="900"/>
 </p>
 
 ### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba El Bot Aqui" width="42" height="42"> Prueba El Bot Aqui

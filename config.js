@@ -60,8 +60,8 @@ global.imagen7 = fs.readFileSync('./AhoraQue.png');
 global.imagen8 = fs.readFileSync('./Que.jpg');
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/Dcpdq8ly8cGAxudBylbwOI' //Grupo Oficial De 
-𖣘𝙿𝚊𝚗乂𝚋𝚝˚𝙾𝙵𝙲
+global.gp1 = 'https://chat.whatsapp.com/Dcpdq8ly8cGAxudBylbwOI' //Grupo Oficial De𖣘𝙿𝚊𝚗乂𝚋𝚝˚𝙾𝙵𝙲.
+
 global.gp2 = 'https://chat.whatsapp.com/JNdlCEUKLqHAw87sOqfKmO' //CuriosityBot Y SakuraBot
 
 global.gp3 = 'https://chat.whatsapp.com/IstOAq2RnBx687WhQpOYK8' //NovaBot Y SakuraBot
